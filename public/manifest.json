@@ -1,6 +1,8 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+
+  "short_name": "CivicConnect",
+  "name": "CivicConnect - Civic Engagement Platform",
+
   "icons": [
     {
       "src": "favicon.ico",
